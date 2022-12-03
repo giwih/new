@@ -1,0 +1,52 @@
+#gr {  
+  color:green;
+}
+
+#lox{
+  position: relative;
+  top: -200px;
+  left: 1100px;
+}
+#gh {
+  color:green;
+  position: relative;
+  top: -200px;
+  left: 1px;
+}
+#gp {
+  position: relative;
+  top: -400px;
+  left: 1px;
+}
+
+#as {
+  position: relative;
+  top: -255px;
+  left: 1100px;
+}
+
+#gx {
+  color:green;
+  position: relative;
+  top: -400px;
+  left: 1px;
+}
+
+#gd {
+  position: relative;
+  top: -410px;
+  left: 1px;
+}
+
+#ak {
+  position: relative;
+  top: -500px;
+  left: 1100px;
+}
+
+#nb {
+  color:red;
+  position: relative;
+  top: -610px;
+  left: 1px;
+}
